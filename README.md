@@ -117,12 +117,6 @@ OS: Linux | Windows
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=DeeptaH4x\&show_icons=true\&theme=radical)
-
----
-
 ## 🔥 Streak
 
 ![Streak](https://streak-stats.demolab.com/?user=DeeptaH4x\&theme=radical)
@@ -133,6 +127,7 @@ OS: Linux | Windows
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=DeeptaH4x&theme=matrix&no-frame=true)
 
+![Snake animation](https://github.com/DeeptaH4x/DeeptaH4x/blob/output/github-contribution-grid-snake.svg)
 
 ----
 
