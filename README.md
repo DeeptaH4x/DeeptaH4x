@@ -1,4 +1,5 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Cybersecurity+Engineer;Bug+Bounty+Hunter;PQC+Explorer;Breaking+Systems+Since+2023)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Cybersecurity+Engineer;Bug+Bounty+Hunter;Breaking+Systems+Since+2023)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=DeeptaH4x&fontSize=40&fontColor=00ffcc)
 
 # 👋 Hey, I'm Deepta Chakravarty
 
@@ -126,8 +127,6 @@ OS: Linux | Windows
 ## TROPHY BOARD 
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=DeeptaH4x&theme=matrix&no-frame=true)
-
-![Snake animation](https://github.com/DeeptaH4x/DeeptaH4x/blob/output/github-contribution-grid-snake.svg)
 
 ----
 
